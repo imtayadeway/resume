@@ -18,3 +18,6 @@
 /.ruby-version
 /vendor
 /.DS_Store
+
+# Plain text file
+/data/resume.yml
