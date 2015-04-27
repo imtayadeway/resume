@@ -21,3 +21,5 @@
 
 # Plain text file
 /data/resume.yml
+
+/data/.DS_Store
